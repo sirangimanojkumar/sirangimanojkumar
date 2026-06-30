@@ -17,7 +17,7 @@
 - 🎓 B.Tech in Electronics & Communication Engineering, Bharat Institute of Engineering & Technology (2024–2027)
 - 🔭 Currently writing & simulating RTL designs in Verilog, and exploring **Physical Design** (floorplanning, placement, CTS, routing)
 - 🏭 6 months of industry experience as a Product Quality Engineer at Avishkaran Industries
-- 🌱 Learning Design-for-Test (DFT) and the digital-to-silicon ASIC/FPGA flow
+- 🌱 Learning Physical Design , Design-for-Test (DFT) and the digital-to-silicon ASIC/FPGA flow
 - 🎯 Looking for an entry-level role in RTL Design / Physical Design / VLSI
 
 ---
