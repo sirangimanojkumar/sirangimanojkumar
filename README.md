@@ -46,7 +46,7 @@
 - 🔹 [**8x3-Priority-Encoder**](https://github.com/sirangimanojkumar/8x3-Priority-Encoder) — RTL design and functional verification of an 8-to-3 priority encoder in Verilog
 - 🔹 [**Single-Dual-Port-RAM**](https://github.com/sirangimanojkumar/Single-Dual-Port-RAM) — Single & Dual Port RAM design with file-based memory verification
 - 🔹 [**Binary-to-Gray-Code-Converter-Bitwise-Operation**](https://github.com/sirangimanojkumar/Binary-to-Gray-Code-Converter-Bitwise-Operation-) — Binary-to-Gray code conversion using bitwise logic in Verilog
-- 🔹 [**pattern-printing-s**](https://github.com/sirangimanojkumar/pattern-printing-s) — Verilog pattern generation exercise
+- 🔹 [**pattern-printing-s**](https://github.com/sirangimanojkumar/pattern-printing-s) — Verilog pattern generation exercises.
 
 ---
 
