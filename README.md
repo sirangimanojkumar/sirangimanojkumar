@@ -55,7 +55,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sirangimanojkumar&show_icons=true&theme=default&count_private=true" height="165">
-  < src="https://github-readme-streak-stats.herokuapp.com/?user=sirangimanojkumar&theme=default" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirangimanojkumar&theme=default" height="165">
 
 
 
