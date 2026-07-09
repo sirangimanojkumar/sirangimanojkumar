@@ -41,7 +41,7 @@
 
 ---
 
-### 📌 Featured Repositories
+### 📌 Some of My Repo's
 
 - 🔹 [**8x3-Priority-Encoder**](https://github.com/sirangimanojkumar/8x3-Priority-Encoder) — RTL design and functional verification of an 8-to-3 priority encoder in Verilog
 - 🔹 [**Single-Dual-Port-RAM**](https://github.com/sirangimanojkumar/Single-Dual-Port-RAM) — Single & Dual Port RAM design with file-based memory verification
@@ -51,15 +51,4 @@
 ---
 
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirangimanojkumar&show_icons=true&theme=default&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirangimanojkumar&theme=default" height="165">
-
-
-
-
----
-
-<p align="center"><i>Thanks for stopping by — let's connect and build something silicon-worthy 🔧</i></p>
